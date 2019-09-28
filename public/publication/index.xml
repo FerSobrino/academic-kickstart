@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research | Fernanda Sobrino</title>
+    <link>https://www.fersobrino.com/publication/</link>
+      <atom:link href="https://www.fersobrino.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Research</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.fersobrino.com/img/icon-192.png</url>
+      <title>Research</title>
+      <link>https://www.fersobrino.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>Drug Cartel Entry and Expansion</title>
+      <link>https://www.fersobrino.com/publication/cartelentry/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/publication/cartelentry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Cartel Wars: Fighting Over the Opioid Crises (JMP)</title>
+      <link>https://www.fersobrino.com/publication/the-cartel-wars-fighting-over-the-opioid-crises/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/publication/the-cartel-wars-fighting-over-the-opioid-crises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Mexican Connection</title>
+      <link>https://www.fersobrino.com/publication/mexicanconnection/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/publication/mexicanconnection/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

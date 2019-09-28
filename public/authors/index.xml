@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Fernanda Sobrino</title>
+    <link>https://www.fersobrino.com/authors/</link>
+      <atom:link href="https://www.fersobrino.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 15 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://www.fersobrino.com/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://www.fersobrino.com/authors/</link>
+    </image>
+    
+    <item>
+      <title>Patrick Signoret</title>
+      <link>https://www.fersobrino.com/authors/patrick-signoret/</link>
+      <pubDate>Sun, 15 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/authors/patrick-signoret/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Brian Phillips</title>
+      <link>https://www.fersobrino.com/authors/brian-phillips/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/authors/brian-phillips/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cecilia Farfán Méndez</title>
+      <link>https://www.fersobrino.com/authors/cecilia-farfan-mendez/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/authors/cecilia-farfan-mendez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marco Alcocer</title>
+      <link>https://www.fersobrino.com/authors/marco-alcocer/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/authors/marco-alcocer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Victor Manuel Sánchez</title>
+      <link>https://www.fersobrino.com/authors/victor-manuel-sanchez/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/authors/victor-manuel-sanchez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://www.fersobrino.com/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://www.fersobrino.com/authors/admin/</guid>
+      <description>&lt;p&gt;I am a PhD candidate in economics at Princeton University. I will be available for interviews at ASSA 2020 in San Diego.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
