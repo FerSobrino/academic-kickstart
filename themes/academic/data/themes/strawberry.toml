@@ -2,7 +2,7 @@
 name = "Strawberry"
 
 # Is theme light or dark?
-light = false
+dark = true
 
 # Primary
 primary = "#ff3860"
