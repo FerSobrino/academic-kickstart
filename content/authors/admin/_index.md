@@ -38,7 +38,7 @@ social:
   link: https://twitter.com/FerSo47
 - icon: linkedin
   icon_pack: fab
-  link: www.linkedin.com/in/fernanda-sobrino-26136a95
+  link: https://www.linkedin.com/in/fernanda-sobrino-26136a95/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
