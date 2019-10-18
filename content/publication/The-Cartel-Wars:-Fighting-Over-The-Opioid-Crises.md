@@ -16,6 +16,7 @@ abstract: "The number of major drug trafficking organizations in Mexico increase
 
 url_pdf = "files/DraftPaper.pdf"
 
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
