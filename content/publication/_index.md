@@ -13,4 +13,5 @@ view: 1
 header:
   caption: ""
   image: ""
+  url: "static/DraftPaper.pdf"
 ---
