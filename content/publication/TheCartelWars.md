@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The Cartel Wars: Fighting Over the Opioid Crises (JMP)"
+title: "The Cartel Wars: Fighting Over the Opioid Crises ()"
 subtitle: "Job Market Paper"
 summary: ""
 authors: 
