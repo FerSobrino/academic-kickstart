@@ -4,7 +4,7 @@
 title: "The Mexican Connection"
 subtitle: ""
 summary: ""
-authors: ["Patrick Signoret"]
+authors: ["[Patrick Signoret](https://scholar.princeton.edu/signoret/)"]
 tags: []
 categories: []
 featured: false
