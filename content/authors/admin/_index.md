@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a PhD candidate in economics at Princeton University. I will be available for interviews at ASSA 2020 in San Diego. 
 
-Research Interests:
+interests:
 - Development
 - Economics of Crime 
 - Industrial Organization
