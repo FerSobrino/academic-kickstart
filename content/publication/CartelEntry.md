@@ -4,7 +4,7 @@
 title: "Drug Cartel Entry and Expansion"
 subtitle: ""
 summary: ""
-authors: ["[Patrick Signoret](https://scholar.princeton.edu/signoret/)",[Fernanda Sobrino](https://www.fersobrino.com/)"]
+authors: ["[Patrick Signoret](https://scholar.princeton.edu/signoret/)","[Fernanda Sobrino](https://www.fersobrino.com/)"]
 tags: []
 categories: []
 featured: false
