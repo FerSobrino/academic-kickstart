@@ -4,7 +4,7 @@
 title: "Mapping Criminal Organizations"
 subtitle: ""
 summary: ""
-authors: ["[Marco Alcocer](https://www.marco-alcocer.com/)","[Cecilia Farfán Méndez](https://usmex.ucsd.edu/about/team.html)","[Brian Phillips](https://sites.google.com/site/brianjphillips/)","[Victor Manuel Sánchez](https://centrodeimagenysonido.academia.edu/V%C3%ADctorManuelS%C3%A1nchezVald%C3%A9s)","[Patrick Signoret](https://scholar.princeton.edu/signoret/)"]
+authors: ["[Marco Alcocer](https://www.marco-alcocer.com/)","[Cecilia Farfán Méndez](https://usmex.ucsd.edu/about/team.html)","[Brian Phillips](https://sites.google.com/site/brianjphillips/)","[Victor Manuel Sánchez](https://centrodeimagenysonido.academia.edu/V%C3%ADctorManuelS%C3%A1nchezVald%C3%A9s)","[Patrick Signoret](https://scholar.princeton.edu/signoret/)","[Fernanda Sobrino](https://www.fersobrino.com/)"]
 tags: []
 categories: []
 featured: false
