@@ -55,6 +55,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
- I am a PhD candidate in economics at Princeton University. I will be available for interviews at ASSA 2020 in San Diego.
+ I am a PhD candidate in economics at Princeton University. I will be available for interviews at the European Job Market in Rotterdam in December 2019 and at the ASSA Annual Meeting in San Diego in January 2020.
 
  
