@@ -4,7 +4,7 @@
 title: "Drug Cartel Entry and Expansion"
 subtitle: ""
 summary: ""
-authors: ["[Patrick Signoret](https://scholar.princeton.edu/signoret/)"]
+authors: ["with [Patrick Signoret](https://scholar.princeton.edu/signoret/)"]
 tags: []
 categories: []
 featured: false
