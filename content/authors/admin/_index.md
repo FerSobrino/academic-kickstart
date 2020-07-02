@@ -10,15 +10,16 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Princeton University
-  url: https://economics.princeton.edu/
+- name: Harris School of Public Policy 
+  url: https://harris.uchicago.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a PhD candidate in economics at Princeton University. I will be available for interviews at ASSA 2020 in San Diego. 
+bio: I am a Postdoctoral Researcher at the University of Chicago’s Harris School of Public Policy. My research focuses on development, crime, and building novel data sets on hard to measure phenomena. My recent work includes mapping criminal organization across Mexican municipalities, the effect of the opioid crisis in competition between organized crime in Mexico, and the relationship between market structure and violence in drug markets. 
+
 
 interests:
 - Development
@@ -32,7 +33,7 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:mmacias@princeton.edu".
+  link: '#contact'  # For a direct email link, use "mailto:fsobrino@uchicago.edu".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FerSo47
@@ -55,6 +56,6 @@ user_groups:
 - Researchers
 - Visitors
 ---
- I am a PhD candidate in economics at Princeton University. I will be available for interviews at the European Job Market in Rotterdam in December 2019 and at the ASSA Annual Meeting in San Diego in January 2020.
+
 
  
