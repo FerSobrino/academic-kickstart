@@ -91,7 +91,7 @@ phone = "609 375 6280"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Department of Economics,Julis Romo Rabinowitz Building", city = "Princeton University", region = "New Jersey", postcode = "08544"}
+address = {street = "Harris School of Public Policy, 1155 East 60th Street", city = "University of Chicago", region = "Chicago,IL ", postcode = "60637"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The #coords will show up at the bottom.
