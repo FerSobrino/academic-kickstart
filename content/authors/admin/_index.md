@@ -56,6 +56,7 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a Postdoctoral Researcher at the University of Chicago’s Harris School of Public Policy. My research focuses on development, crime, and building novel data sets on hard to measure phenomena. My recent work includes mapping criminal organization across Mexican municipalities, the effect of the opioid crisis in competition between organized crime in Mexico, and the relationship between market structure and violence in drug markets. 
 
 
  
