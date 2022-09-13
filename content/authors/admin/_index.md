@@ -18,12 +18,7 @@ organizations:
   url: https://egobiernoytp.mx/
 
 # Short bio (displayed in user profile at end of posts)
-I am an Assistant Professor at the Tecnologico de Monterrey School of Government. My research focuses on development, crime, and natural language processing. My recent work includes
- - criminal mapping organizations across Mexican and Colombian municipalities
- - the effects of the opioid crisis in competition between drug cartels in Mexico
- - the relationship between market structure and violence in drug markets
- - following political violence towards candidates in Mexico 
- - measuring which information helps more migrants crossing through Mexico reduce dangers 
+I am an Assistant Professor at the Tecnologico de Monterrey School of Government. My research focuses on development, crime, and natural language processing. My recent work includes: mapping criminal organizations across Mexican and Colombian municipalities, the effects of the opioid crisis in competition between drug cartels in Mexico, the relationship between market structure and violence in drug markets, following political violence towards candidates in Mexico, measuring which information helps more migrants crossing through Mexico reduce dangers. 
 
 
 interests:
