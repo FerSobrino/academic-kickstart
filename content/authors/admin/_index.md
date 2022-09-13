@@ -10,21 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Researcher
+role: Assistant Professor 
 
 # Organizations/Affiliations
 organizations:
-- name: Harris School of Public Policy 
-  url: https://harris.uchicago.edu/
+- name: Escuela de Gobierno y Transformación Pública del Tecnológico de Monterrey
+  url: https://egobiernoytp.mx/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Postdoctoral Researcher at the University of Chicago’s Harris School of Public Policy. My research focuses on development, crime, and building novel data sets on hard to measure phenomena. My recent work includes mapping criminal organization across Mexican municipalities, the effect of the opioid crisis in competition between organized crime in Mexico, and the relationship between market structure and violence in drug markets. 
+I am an Assistant Professor at the Tecnologico de Monterrey School of Government. My research focuses on development, crime, and natural language processing. My recent work includes
+ - criminal mapping organizations across Mexican and Colombian municipalities
+ - the effects of the opioid crisis in competition between drug cartels in Mexico
+ - the relationship between market structure and violence in drug markets
+ - following political violence towards candidates in Mexico 
+ - measuring which information helps more migrants crossing through Mexico reduce dangers 
 
 
 interests:
-- Development
+- Data Science 
 - Economics of Crime 
-- Industrial Organization
+- Development
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -33,13 +39,19 @@ interests:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:fsobrino@uchicago.edu".
+  link: '#contact'  # For a direct email link, use "mailto:fersobrinno@tec.mx".
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/FerSo47
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/fernanda-sobrino-26136a95/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/FerSobrino
+- icon: gitlab
+  icon_pack: fab
+  link: https://gitlab.com/FerSobrino
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
@@ -56,7 +68,11 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a Postdoctoral Researcher at the University of Chicago’s Harris School of Public Policy. My research focuses on development, crime, and building novel data sets on hard to measure phenomena. My recent work includes mapping criminal organization across Mexican municipalities, the effect of the opioid crisis in competition between organized crime in Mexico, and the relationship between market structure and violence in drug markets. 
-
+I am an Assistant Professor at the Tecnologico de Monterrey School of Government. My research focuses on development, crime, and natural language processing. My recent work includes
+ - criminal mapping organizations across Mexican and Colombian municipalities
+ - the effects of the opioid crisis in competition between drug cartels in Mexico
+ - the relationship between market structure and violence in drug markets
+ - following political violence towards candidates in Mexico 
+ - measuring which information helps more migrants crossing through Mexico reduce dangers 
 
  
