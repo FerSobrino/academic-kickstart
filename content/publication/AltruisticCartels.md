@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Do Natural Disasters Make Criminal Organizations More Violent or More Altruistic?"
+title: "Shaking Criminal Organizations: Earthquakes and Organized Crime"
 subtitle: ""
 summary: ""
 authors: ["[Adan Silverio-Murillo](https://www.adansilveriomurillo.com/)","[Enrique García-Tejeda](https://www.garciatejeda.com/post/hello/)", "[Fernanda Sobrino](https://www.fersobrino.com/)", "[Jose Roberto Balmori de la Miyar](https://www.anahuac.mx/mexico/EscuelasyFacultades/economia/Profesorado/Jose-Balmori-de-la-Miyar)","[Daniel Prudencio](https://sites.google.com/view/danielprudencio/home)"]
