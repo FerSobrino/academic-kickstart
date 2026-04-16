@@ -50,13 +50,18 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
-## Princeton University - Teaching Assistant
-* [Economics of the Internet: The Digital Revolution](https://registrar.princeton.edu/course-offerings/course-details?term=1202&courseid=012512), Prof. Swati Bhatt , Fall 2016-2019
-* [Firm Competition and Strategy:A Mathematical Approach](https://registrar.princeton.edu/course-offerings/course-details?term=1194&courseid=014993), Prof. Kate Ho , Spring 2019
-* [Economics of Health and Health Care](https://registrar.princeton.edu/course-offerings/course-details?term=1174&courseid=010527), Prof. Maria Rosales , Spring 2017
-* [Economic Analysis of Development](https://registrar.princeton.edu/course-offerings/course-details?term=1174&courseid=006916), Prof. Jeffrey Hammer , Spring 2017
+## Tecnológico de Monterrey — Escuela de Gobierno y Transformación Pública · Assistant Professor
+* Introduction to Data Science
+* {{% staticref "files/Syllabus_MachineLearning.pdf" "newtab" %}}Machine Learning{{% /staticref %}}
+* {{% staticref "files/Syllabus_DeepLearning.pdf" "newtab" %}}Deep Learning{{% /staticref %}}
 
-## Instituto Tecnológico Autónomo de México (ITAM) -Lecturer
+## Princeton University — Teaching Assistant
+* [Economics of the Internet: The Digital Revolution](https://registrar.princeton.edu/course-offerings/course-details?term=1202&courseid=012512), Prof. Swati Bhatt, Fall 2016–2019
+* [Firm Competition and Strategy: A Mathematical Approach](https://registrar.princeton.edu/course-offerings/course-details?term=1194&courseid=014993), Prof. Kate Ho, Spring 2019
+* [Economics of Health and Health Care](https://registrar.princeton.edu/course-offerings/course-details?term=1174&courseid=010527), Prof. Maria Rosales, Spring 2017
+* [Economic Analysis of Development](https://registrar.princeton.edu/course-offerings/course-details?term=1174&courseid=006916), Prof. Jeffrey Hammer, Spring 2017
+
+## Instituto Tecnológico Autónomo de México (ITAM) — Lecturer
 * {{% staticref "files/temario.pdf" "newtab" %}}Monetary Policy{{% /staticref %}}, Summer 2015
 
 
