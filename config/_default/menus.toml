@@ -9,9 +9,14 @@
   weight = 10
 
 [[main]]
-  name = "Research"
-  url = "#publications"
+  name = "Publications"
+  url = "#publications_journal"
   weight = 20
+
+[[main]]
+  name = "Working Papers"
+  url = "#publications"
+  weight = 25
 
 [[main]]
   name = "Teaching"
@@ -29,13 +34,7 @@
   url = "#contact"
   weight = 60
 
-[[main]]
-  name = "CV"
-  url = "#cv"
-  weight = 70
-
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 [[main]]
   name = "CV"
   url = "files/cv.pdf"
