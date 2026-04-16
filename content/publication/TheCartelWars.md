@@ -30,6 +30,10 @@ years is due to criminal groups fighting for market share of heroin, not only du
 changes in government enforcement."
 
 
+publication_types: ["3"]
+publication: "*Job Market Paper*"
+publication_short: "*JMP*"
+
 url_pdf: 'files/DraftPaper.pdf'
 
 # Projects (optional).
