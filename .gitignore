@@ -1,2 +1,21 @@
 public/
 .idea/
+
+# macOS
+.DS_Store
+
+# Hugo cache
+resources/_gen/
+
+# Session / handoff artifacts (local-only)
+.claude/
+docs/
+working-outline.md
+TODO.org
+CLAUDE.md
+GIT_REMOTE
+.project
+handoff-trace.log
+README.org
+COMPACT.md
+COMPACT-archive-*.md
